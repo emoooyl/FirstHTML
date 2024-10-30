@@ -1,12 +1,12 @@
         table {
-            width: 100%; /* Adjust the width as needed */
-            margin: 10px auto; /* Center the table */
-            border-collapse: collapse; /* Merge borders */
+            width: 100%;
+            margin: 10px auto; 
+            border-collapse: collapse;
         }
         td {
-            border: 1px solid black; /* Border for all cells */
-            height: 60px; /* Height for each cell */
-            text-align: center; /* Center the text (if any) */
+            border: 1px solid black;
+            height: 60px;
+            text-align: center; 
             font-size: 45px;
         }
 
