@@ -9,5 +9,10 @@
             text-align: center; /* Center the text (if any) */
             font-size: 45px;
         }
-       
+
+        a { 
+           background-color: #afcdfa; 
+           color: black;
+           border: 2px solid red
+        } 
     
