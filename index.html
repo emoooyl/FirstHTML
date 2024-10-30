@@ -3,34 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> HTML & CSS Study </title>
+    <title>Custom Table Design</title>
     <style>
         table {
-            width: 100%;
-            border-collapse: collapse;
+            width: 80%; /* Adjust the width as needed */
+            margin: 20px auto; /* Center the table */
+            border-collapse: collapse; /* Merge borders */
+        }
+        td {
+            border: 1px solid black; /* Border for all cells */
+            height: 60px; /* Height for each cell */
+            text-align: center; /* Center the text (if any) */
         }
     </style>
 </head>
 <body>
+
     <table>
-        <tr>
-         <td colspan="3"></td>
-        <td></td>
-        </tr>
+        <!-- First row -->
         <tr>
             <td></td>
             <td></td>
             <td></td>
         </tr>
+
+        <!-- Second row -->
         <tr>
-          <td colspan="3"></td>
+            <td colspan="2"></td> <!-- Merging two cells -->
             <td></td>
         </tr>
+
+        <!-- Third row -->
         <tr>
-          <td colspan="3"></td>
-          <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+        <!-- Fourth row -->
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
+
 </body>
 </html>
-
