@@ -4,11 +4,11 @@
             border-collapse: collapse; /* Merge borders */
         }
         td {
+            background-color: red;
             border: 1px solid black; /* Border for all cells */
             height: 60px; /* Height for each cell */
             text-align: center; /* Center the text (if any) */
             font-size: 40px;
-            background-color: red;
         }
        
     
