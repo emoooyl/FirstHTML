@@ -20,8 +20,8 @@
 .hover-button:hover {
     padding: 15px 30px;
     font-size: 45px;
-    color: light-pink;
-    background-color: #ff5c5c;
+    color: #ff5c5c;
+    background-color: #f0f0f0;
     border: 5px;
     border-radius: 5px;
     cursor: pointer;
