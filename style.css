@@ -6,6 +6,7 @@
     }
 .hi {
        background-color: #ff5c5c;
+       border: 2px solid black;
 }
         table {
             width: 100%;
