@@ -6,10 +6,10 @@
     background-color: #f0f0f0; 
     }
         table {
+            background-color: #fa878d; 
             width: 100%;
             margin: 10px auto; 
             border-collapse: collapse;\
-            background-color: #fa878d; 
         }
         td {
             border: 1px solid black;
