@@ -15,6 +15,7 @@
             height: 60px;
             text-align: center; 
             font-size: 45px;
+            background-color: #ff5c5c; 
         }
 
 .hover-button:hover {
@@ -31,8 +32,3 @@
 .override-font {
     font-size: 30px;
 } 
-
-.pink-cell {
-    background-color: light pink; 
-}
-
