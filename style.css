@@ -3,13 +3,13 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #fa878d; 
+    background-color: #f0f0f0; 
     }
         table {
             width: 100%;
             margin: 10px auto; 
             border-collapse: collapse;\
-            background-color: #ff5c5c; 
+            background-color: ##fa878d; 
         }
         td {
             border: 1px solid black;
@@ -28,5 +28,9 @@
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
+
+.override-font {
+    font-size: 30px;
+} 
 
 
