@@ -18,6 +18,15 @@
             text-align: center; 
             font-size: 45px;
         }
+.hover-button {
+    padding: 15px 30px;
+    font-size: 45px;
+    background-color: #eb34e1;
+    border: 5px; 
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
 
 .hover-button:hover {
     padding: 15px 30px;
