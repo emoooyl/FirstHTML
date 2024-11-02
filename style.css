@@ -17,7 +17,6 @@ body {
             font-size: 45px;
         }
 .hover-button {
-    padding: 10px;
     font-size: 45px;
     background-color: #ff6e9e;
     border: 10px; 
@@ -27,7 +26,6 @@ body {
 }
 
 .hover-button:hover {
-    padding: 10px;
     font-size: 45px;
     background-color: #ff5c5c;
     border: 10px;
