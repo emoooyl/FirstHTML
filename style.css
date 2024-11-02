@@ -18,22 +18,22 @@ body {
         }
 .button {
     font-size: 45px;
-    width: 750px;
+    width: 725px;
     height: 75px;
     background-color: #ff6e9e;
     border: 10px; 
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .button:hover {
     font-size: 45px;
-    width: 750px;
+    width: 725px;
     height: 75px;
     background-color: #ff5c5c;
     border: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
