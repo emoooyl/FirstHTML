@@ -1,13 +1,10 @@
-.hello {
+body {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     }
-.hi {
-       background-color: #ff5c5c;
-       border: 10px solid black;
-}
+
         table {
             width: 100%;
             margin: 10px auto; 
@@ -42,3 +39,8 @@
 .override-font {
     font-size: 30px;
 } 
+
+.pink-cell {
+       background-color: #ff5c5c;
+       border: 10px solid black;
+}
