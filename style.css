@@ -16,8 +16,10 @@ body {
             text-align: center; 
             font-size: 45px;
         }
-.hover-button {
+.button {
     font-size: 45px;
+    width: 150px;
+    height: 50px;
     background-color: #ff6e9e;
     border: 10px; 
     border-radius: 10px;
@@ -25,8 +27,10 @@ body {
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-.hover-button:hover {
+.button:hover {
     font-size: 45px;
+    width: 150px;
+    height: 50px;
     background-color: #ff5c5c;
     border: 10px;
     border-radius: 10px;
