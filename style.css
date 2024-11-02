@@ -24,7 +24,6 @@
     font-size: 45px;
     background-color: #ff6e9e;
     border: 5px; 
-    border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
