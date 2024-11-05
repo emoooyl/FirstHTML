@@ -22,7 +22,8 @@
     background-color: #ff6e9e;
     border: 10px; 
     border-radius: 2px;
-    cursor: pointer;
+    cursor: pointer;  
+    font-style: serif; 
 }
 
 .button:hover {
@@ -33,6 +34,7 @@
     border: 10px;
     border-radius: 2px;
     cursor: pointer;
+    font-style: serif;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
